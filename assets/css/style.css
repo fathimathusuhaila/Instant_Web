@@ -1,7 +1,7 @@
 /*------------------------------------------------------------------
 [Master Stylesheet]
 
-Project:  Instant VA
+Project:  Illford Technologies
 -------------------------------------------------------------------*/
 /*------------------------------------------------------------------
 [Table of contents]
@@ -27,22 +27,22 @@ body {
 	font-family: 'Karla', sans-serif;
 }
 :root {
-    --e-global-color-primary: #0b0d29;
-    --e-global-color-secondary: #5bc5d1;
-    --e-global-color-text: #5f5f5f;
-    --e-global-color-accent: #f89623;
-	--e-global-color-white: #ffffff;
-    --e-global-color-dark-cyan: #1d818d;
-    --e-global-color-mostly-black-cyan: #102b2e;
-    --e-global-color-very-grayish-cyan: #b8d1d4;
-    --e-global-color-dark-grayish: #7f7d7d;
-    --e-global-color-desaturated-cyan: #284e52;
-    --e-global-color-very-dark-cyan: #0e2629;
-    --e-global-color-light-grayish-cyan: #d5fafe;
-    --e-global-color-pale-orange: #fff8ef;
-    --e-global-color-soft-orange: #f9c98f;
-    --e-global-color-grayish-cyan: #e2f0ed;
-    --e-global-color-moderate-cyan: #5cc3ce;
+    --e-global-color-primary: #103045;          
+    --e-global-color-secondary: #248f73;       
+    --e-global-color-text: #5f5f5f;            
+    --e-global-color-accent: #e0ce6c;          
+    --e-global-color-white: #ffffff;           
+    --e-global-color-dark-cyan: #1d735c;      
+    --e-global-color-mostly-black-cyan: #11452e; 
+    --e-global-color-very-grayish-cyan: #aecfb8; 
+    --e-global-color-dark-grayish: #7f7d7d;   
+    --e-global-color-desaturated-cyan: #2d7a64;
+    --e-global-color-very-dark-cyan: #0e3d29;  
+    --e-global-color-light-grayish-cyan: #e6f4f0;
+    --e-global-color-pale-orange: #f7f3e4;  
+    --e-global-color-soft-orange: #e8dca0; 
+    --e-global-color-grayish-cyan: #dceae6;   
+    --e-global-color-moderate-cyan: #248f73; 
 }
 h1{
     font-family: 'Jost', sans-serif;
