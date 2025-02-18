@@ -509,7 +509,7 @@ p{
 /* Home Page Our Process Section Style */
 
 .our_process_section{
-    padding: 140px 0 0px;
+    padding: 140px 0px;
     position: relative;
 }
 .our_process_section .our_process-content{
@@ -1188,7 +1188,7 @@ textarea {
 }
 .middle-portion .contact_col{
     padding-left: 25px;
-    padding-right: 40px;
+    padding-right: 15px;
 }
 .middle-portion .contact_col ul li{
     margin-bottom: 8px;

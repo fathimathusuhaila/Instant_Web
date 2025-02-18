@@ -2,11 +2,11 @@
 
 @media screen and (max-width: 1800px){
     .main_header {
-        padding: 8px 30px 0;
+        padding: 40px 30px 0;
     }
-    .navbar-nav {
+    /* .navbar-nav {
         padding-left: 140px;
-    }
+    } */
     .banner-section {
         padding: 125px 30px 0;
     }
@@ -16,10 +16,9 @@
     }
     .navbar-brand img {
         width: 150px;
-        height: 80px;
     }
     .footer_logo figure img{
-        width: 145px;
+        width: 300px;
     }
 }
 
@@ -31,11 +30,11 @@
 
 @media screen and (max-width: 1440px){
     .main_header {
-        padding: 5px 15px 0;
+        padding: 40px 15px 0;
     }
-    .navbar-nav {
+    /* .navbar-nav {
         padding-left: 60px;
-    }
+    } */
     .navbar-nav li {
         margin: 0px 16px 0 16px;
     }
@@ -190,7 +189,7 @@
         top: 115px;
     }
     .footer_logo figure img{
-        width: 145px;
+        width: 250px;
     }
 
     .sub-banner-section .banner-section {
@@ -314,10 +313,10 @@
 
 @media screen and (max-width: 1199px){
     .main_header {
-        padding: 5px 5px 0;
+        padding: 40px 5px 0;
     }
     .navbar-nav {
-        padding-left: 28px;
+        padding-left: 150px;
     }
     .navbar-nav li {
         margin: 0px 12px 0 12px;
@@ -2099,7 +2098,7 @@
         top: 240px;
     }
     .footer_logo figure img {
-        width: 125px;
+        width: 200px;
     }
 
     .sub-banner-section .banner-section {
@@ -3134,6 +3133,9 @@
     .sign_up-section figure{
         margin-bottom: 20px !important;
     }
+    .sign_up-section figure img{
+        width: 180px;
+    }
     .sign_up_content {
         margin-bottom: 20px;
     }
@@ -3673,8 +3675,7 @@
         width: 60%;
     }
     .navbar-brand img {
-        width: 180px;
-        height: 100px;
+        width: 120px;
     }
 
     .banner-section {
